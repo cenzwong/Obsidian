@@ -1,0 +1,107 @@
+{
+  "main": {
+    "id": "7e250bcfa5ad0905",
+    "type": "split",
+    "children": [
+      {
+        "id": "ea621621898e4a98",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Python Scientific Computing.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5f2c16006e03b3b0",
+    "type": "split",
+    "children": [
+      {
+        "id": "2eb5c02ffb7a72cc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4fb4fd6e335761e8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "cf9612ecef1539a4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#python",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "213a389763ece654",
+    "type": "split",
+    "children": [
+      {
+        "id": "17c00996b432ac84",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "22729adebb731696",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Python Scientific Computing.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "89691b8161338773",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "ea621621898e4a98",
+  "lastOpenFiles": [
+    "Python Scientific Computing.md",
+    "matplotlib.md",
+    "Cenz_memoji 1.png",
+    "Cenz_memoji.png"
+  ]
+}
